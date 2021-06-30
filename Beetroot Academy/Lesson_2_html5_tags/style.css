@@ -1,0 +1,46 @@
+
+.menu__list{
+    list-style: none;
+    display: flex;
+}
+.list__li{
+    margin-right: 10px;
+}
+ a{
+text-decoration: none;
+color: #a6a6a6;
+}
+a:hover{
+    color:#658ade;
+}
+
+
+p{
+    text-align: center;
+}
+
+
+.container{
+    padding: 0 10px 0 10px;
+}
+
+.force{
+    text-align: center;
+}
+.facebook__img, .linkedin__img, .phone__img, .mail__img{
+    width: 15px;
+    height: 15px;
+}
+.dvs{
+    font-weight: 700;
+}
+.market__bold{
+    font-weight: 700;
+}
+.market__red{
+    color:red
+}
+
+.footer{
+    margin-top: 50px;
+}
